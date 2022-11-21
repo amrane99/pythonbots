@@ -6,5 +6,5 @@ setup(
     description='A project boundling several Bots for Python.',
     url='https://github.com/amrane99/pythonbots',
     keywords='python setuptools',
-    packages=find_packages(include=['bots', 'bots.*']),
+    packages=find_packages(include=['bots', 'bots.*'])
 )
