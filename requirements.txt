@@ -1,4 +1,5 @@
 -e .
 Flask
+telegram
 pywhatkit
 python-telegram-bot
